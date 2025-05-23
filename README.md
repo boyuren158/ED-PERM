@@ -7,6 +7,6 @@ R scripts for the simulations and data application in "Leveraging External Data 
 
 * **example_2_*.R**: R scripts for the simulations in Example 2.
 
-* **data_application*.R**: R scripts for the data application.
+* **data_application_*.R**: R scripts for the data application.
 
 * **binary_example_multigroup.R**: R script for the simulation study of binary outcomes with multiple patient subgroups.
